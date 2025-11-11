@@ -1,0 +1,9 @@
+{
+	"name": "praveenfactyoutube",
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "efc4a445-5a6e-4783-9de1-29a4911ea64e",
+		"tenantId": "77458ba8-4302-4ae7-9ecd-5a857a15fd00"
+	}
+}
